@@ -1,4 +1,4 @@
-module github.com/labulakalia/water
+module github.com/mythologyli/water
 
 go 1.17
 
